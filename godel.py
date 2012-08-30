@@ -26,7 +26,7 @@ UPPERBOUND_OF_PRIMES = 10000
 
 ## Once the variables are exhausted, they will be reused, with the *character*
 ## in TICK appended to them.  For example if TICK='`' and
-## NUMERICAL_VARIABLES='x','y','z' than after the variables x, y, z were used
+## NUMERICAL_VARIABLES='x','y','z' then after the variables x, y, z were used
 ## the next variable would be x` then y` then z` and then x`` and so on.
 TICK = '`'
 
